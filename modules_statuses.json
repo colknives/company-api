@@ -1,0 +1,6 @@
+{
+    "Companies": true,
+    "Departments": true,
+    "Employees": true,
+    "Auth": true
+}
